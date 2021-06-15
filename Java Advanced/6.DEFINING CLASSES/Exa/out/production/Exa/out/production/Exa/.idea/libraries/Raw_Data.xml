@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Raw_Data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Raw_Data/Raw_Data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

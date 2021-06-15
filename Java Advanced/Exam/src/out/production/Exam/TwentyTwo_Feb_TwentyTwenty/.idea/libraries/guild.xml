@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guild">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/guild/guild.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
