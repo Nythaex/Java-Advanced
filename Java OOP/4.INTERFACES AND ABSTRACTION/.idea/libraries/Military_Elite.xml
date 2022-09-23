@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Military_Elite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Exa/out/production/Exa/Military_Elite.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

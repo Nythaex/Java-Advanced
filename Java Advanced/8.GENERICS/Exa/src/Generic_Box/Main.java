@@ -12,7 +12,7 @@ public class Main {
         int n=Integer.parseInt(reader.readLine());
 
         for (int i = 0; i <n; i++) {
-          Box<String> line=new Box<>((reader.readLine()));
+          Box<String> line=new Box<>(reader.readLine());
             System.out.println(line.toString());
         }
     }
